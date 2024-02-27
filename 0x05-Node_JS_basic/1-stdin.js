@@ -1,4 +1,3 @@
-// Print a welcome message to the console
 process.stdout.write('Welcome to Holberton School, what is your name?\n');
 
 // Listen for input from the user
